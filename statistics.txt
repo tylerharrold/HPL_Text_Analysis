@@ -1,0 +1,17 @@
+1) Corpus statistics
+  a. total list of all unique words used across all stories
+  b. 100 least used words
+  c. 100 most used words
+  d. percentage of 100 least used words used within a range of other least used words (joshi theory test)
+  e. total number of unique words used
+  f. total number of words used
+
+
+2) per story statistic
+  a. number of total words
+  b. number of unique words
+  c. top 50 used words
+  d. top 50 most uncommon words
+  e. percentage of uncommon words used within range of other uncommon words (joshi theory test)
+  f. number of words unique to this story
+  g. list of words unique to this story
